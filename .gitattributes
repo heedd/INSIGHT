@@ -1,1 +1,1 @@
-C:/Users/clari/Desktop/Insight/node_modules filter=lfs diff=lfs merge=lfs -text
+C:/Users/clari/Desktop/Insight/node_modules/** filter=lfs diff=lfs merge=lfs -text
