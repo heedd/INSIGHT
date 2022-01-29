@@ -22,10 +22,11 @@ INSIGHT는 시각장애인을 위한 배리어프리 스마트 헬스케어 애�
 
 ## [(1) 어플리케이션 실행방법](https://github.com/heedd/INSIGHT)
 ### 실행 환경
-* npm -v : 
-* node -v
-* expo-cli -version : 
-
+* npm -v : 7.20.5
+* node -v : v15.14.0
+* expo-cli -version : 4.1.6 
+* expo go: v.2.16.1
+  
 ### 프로그램 실행
 ```
 git clone https://github.com/heedd/INSIGHT
@@ -35,7 +36,7 @@ expo start
 ```
 * 프로젝트 다운로드 & 모듈 설치
 * expo-cli로 앱 빌드하면 클라이언트로 접속 가능한 QR코드가 생성됨
-* 모바일 기기에 expo 앱 다운로드 후 QR코드 스캔하여 INSIGHT 앱 실행   
+* 모바일 기기에 [expo go v.2.16.1](https://apkpure.com/expo/host.exp.exponent/download/129-APK?from=versions%2Fversion) 다운로드 후 QR코드 스캔하여 INSIGHT 앱 실행   
 <br/>
 
 ## [(2) 로컬서버 실행방법](https://github.com/heedd/INSIGHT/tree/server)
