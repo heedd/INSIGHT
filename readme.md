@@ -29,7 +29,7 @@ INSIGHT는 시각장애인을 위한 배리어프리 스마트 헬스케어 애�
 ### 프로그램 실행
 ```
 git clone https://github.com/heedd/INSIGHT
-cd remote_frontend
+cd INSIGHT
 npm install
 expo start
 ```
@@ -39,17 +39,12 @@ expo start
 <br/>
 
 ## [(2) 로컬서버 실행방법](https://github.com/heedd/INSIGHT/tree/server)
-### 실행 환경
-* npm -v : 
-* expo-cli -version : 
-
 ### 프로그램 실행
 ```
-git clone https://github.com/heedd/INSIGHT
-cd remote_frontend
+git clone -b server --single-branch https://github.com/heedd/INSIGHT INSIGHT-SERVER
+cd INSIGHT-SERVER
 npm install
-expo start
+npm start
 ```
 * 프로젝트 다운로드 & 모듈 설치
-* expo-cli로 앱 빌드하면 클라이언트로 접속 가능한 QR코드가 생성됨
-* 모바일 기기에 expo 앱 다운로드 후 QR코드 스캔하여 INSIGHT 앱 실행 
+* port 8000번에서 로컬 서버 실행
