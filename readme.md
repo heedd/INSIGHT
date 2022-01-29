@@ -6,7 +6,7 @@
 ###### ※ 현재 aws 서버 종료  
 
 ## INSIGHT 소개
-INSIGHT는 시각장애인을 위한 배리어프리 스마트 헬스케어 애플리케이션입니다.  
+INSIGHT는 시각장애인을 위한 **배리어프리 스마트 헬스케어 애플리케이션**입니다.  
 모바일 장치의 카메라로 신체를 인식하여 AI 트레이너의 정확한 운동 지도를 받으실 수 있습니다.   
 
 📌 [INSIGHT 실행 영상](https://www.instagram.com/p/CLcAnKtH1jg/?utm_medium=copy_link)
