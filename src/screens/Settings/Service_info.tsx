@@ -68,7 +68,7 @@ export default class Service_info extends React.Component<Props> {
             resizeMode='contain'
             style={{ width: Dimensions.get('window').width*0.8, 
             height: Dimensions.get('window').height*0.1, alignSelf:'center', marginTop:7,marginBottom:30}}
-            source={require('../../../assets/icons/logo2.png')} />
+            source={require('../../../assets/assets/icons/logo2.png')} />
 
           <Text style={styles.textStyle}>
           안녕하세요, 배리어프리 헬스 트레이닝 어플리케이션 'INSIGHT'입니다.
